@@ -2,7 +2,7 @@
 
 ## Overview
 
-This repository contains example code from my AMP for Email session at Salesforce Connections 2026.
+This repository contains example code from the [AI in the Inbox: Building Interactive Email Agents](#) session at Salesforce Connections 2026.
 
 ## Playgrounds
 
