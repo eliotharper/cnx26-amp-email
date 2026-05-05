@@ -1,8 +1,8 @@
-# AMP for Email Connections 2021 Presentation
+# AMP for Email Connections 2026 Presentation
 
 ## Overview
 
-This repository contains example code from my AMP for Email session at [Salesforce Connections 2021](https://www.salesforce.com/connections/), along with a copy of the presentation.
+This repository contains example code from my AMP for Email session at Salesforce Connections 2026.
 
 ## Playgrounds
 
