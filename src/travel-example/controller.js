@@ -82,35 +82,35 @@ if (Platform.Request.Method=='POST') { // amp-form xhr request
      items:[
         {
            id:'ao_nang',
-           image:'https://dy9wp9h0ubcmy.cloudfront.net/ao-nang.jpg',
+           image:'https://raw.githubusercontent.com/eliotharper/cnx26-amp-email/refs/heads/master/src/img/ao-nang.jpg',
            title:'Ao Nang Beach, Thailand',
            content:'Ao Nang is a resort town in southern Thailand\'s Krabi Province. It\'s known for a long Andaman coast beachfront and access to dive sites off the nearby islands in its bay.',
            url:'https://www.tripadvisor.com.au/Attraction_Review-g1507054-d7155397-Reviews-Ao_Nang_Beach-Ao_Nang_Krabi_Town_Krabi_Province.html'
         },
         {
            id:'haad_rin',
-           image:'https://dy9wp9h0ubcmy.cloudfront.net/haad-rin.jpg',
+           image:'https://raw.githubusercontent.com/eliotharper/cnx26-amp-email/refs/heads/master/src/img/haad-rin.jpg',
            title:'Haad Rin, Thailand',
            content:'Hat Rin is a peninsular beach area and town on the southern tip of Ko Pha-ngan, an island in the Gulf of Thailand. Its two main beaches are Sunset Beach to the south and the larger Sunrise Beach to the north.',
            url:'https://www.tripadvisor.com.au/Attraction_Review-g303907-d556707-Reviews-Haad_Rin-Ko_Pha_Ngan_Surat_Thani_Province.html'
         },
         {
            id:'pattaya_south',
-           image:'https://dy9wp9h0ubcmy.cloudfront.net/pattaya-south.jpg',
+           image:'https://raw.githubusercontent.com/eliotharper/cnx26-amp-email/refs/heads/master/src/img/pattaya-south.jpg',
            title:'Pattaya South, Thailand',
            content:'A visit to Pattaya is a wonderful way to explore the beaches along the Gulf of Thailand. Relaxed and family-friendly Jomtien Beach is a hot spot for watersports and seaside massages.',
            url:'https://www.tripadvisor.com.au/Tourism-g293919-Pattaya_Chonburi_Province-Vacations.html'
         },
         {
            id:'phi_phi_don',
-           image:'https://dy9wp9h0ubcmy.cloudfront.net/phi-phi-don.jpg',
+           image:'https://raw.githubusercontent.com/eliotharper/cnx26-amp-email/refs/heads/master/src/img/phi-phi-don.jpg',
            title:'Phi Phi Don, Thailand',
            content:'The largest of the Phi Phi Islands, Ko Phi Phi Don is a non-volcanic island, made mostly of limestone. Accessible from Phuket, Ko Phi Phi Don has great beaches and popular diving and snorkeling spots.',
            url:'https://www.tripadvisor.com.au/Tourism-g303908-Ko_Phi_Phi_Don_Krabi_Province-Vacations.html'
         },
         {
            id:'patong_beach',
-           image:'https://dy9wp9h0ubcmy.cloudfront.net/patong-beach.jpg',
+           image:'https://raw.githubusercontent.com/eliotharper/cnx26-amp-email/refs/heads/master/src/img/patong-beach.jpg',
            title:'Patong Beach, Thailand',
            content:'Patong is a beach resort town on the west coast of Phuket Island, facing the Andaman Sea in the southwest of Thailand. Its sandy, crescent beach is lined with cafes, restaurants and bars.',
            url:'https://www.tripadvisor.com.au/Attraction_Review-g297930-d2454044-Reviews-Patong_Beach-Patong_Kathu_Phuket.html'
